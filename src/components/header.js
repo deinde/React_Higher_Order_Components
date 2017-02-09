@@ -24,8 +24,7 @@ class Header extends Component{
          {this.authButton()}
        </li>
       </ul>
-
-     </nav>
+    </nav>
 		);
 	}
 }
